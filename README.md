@@ -15,4 +15,3 @@ In this notebook, we will use Fruits with Colors Dataset and implement Key-Neare
 
 </div>
 
-
