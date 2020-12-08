@@ -13,4 +13,3 @@
 In this notebook, we will use Fruits with Colors Dataset and implement Key-Nearest Neighbours algorithm to make a model which predicts name of fruits based on thier physical characteristics such as mass, width and height. 
 
 </div>
-
